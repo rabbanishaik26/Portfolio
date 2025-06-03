@@ -12,12 +12,23 @@ I’m a passionate and adaptable tech enthusiast with a background in data analy
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages**: Python, SQL, JavaScript, HTML, CSS, Java  
-**Tools & Frameworks**: Power BI, Tableau, React, Node.js, Selenium, Spring Boot  
-**Databases**: MySQL, PostgreSQL, MongoDB  
-**Cloud & DevOps**: AWS (basic), Git, GitHub, CI/CD basics  
+### 💻 Languages & Tools  
+`Python` • `Java` • `SQL` • `R` • `Power BI` • `Tableau` • `Excel` • `HTML` • `CSS` • `JavaScript`
+
+### 📚 Frameworks & Libraries  
+`Pandas` • `NumPy` • `Matplotlib` • `Django` • `Spring Boot` • `Bootstrap` • `Tailwind CSS`
+
+### ☁️ Cloud & Databases  
+`AWS (EC2, S3, RDS, Lambda)` • `MySQL` • `PostgreSQL` • `MongoDB` • `Git/GitHub`
+
+### 📊 Data & Analytics  
+`Data Cleaning` • `Data Analysis` • `Data Modeling` • `ETL` • `Predictive Analytics` • `Reporting Automation`
+
+### 🤝 Project Management  
+`Agile Methodologies` • `User Acceptance Testing (UAT)` • `Cross-functional Collaboration` • `Defect Resolution`
+ 
 
 ---
 
